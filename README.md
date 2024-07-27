@@ -1,8 +1,8 @@
 # Basic Calculator
 
 It's a Basic Calculator and this is my Guvi-Zen class Day-15 DOM Manipulation Task.
-
 ---
+Deployed URL : (https://simplecalculatordrill.netlify.app)
 ## Tech Stack
 
 - HTML
